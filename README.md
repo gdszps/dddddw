@@ -1,7 +1,7 @@
 ## HEROKU XRAY ツ
 
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/noobconner21/Heroku-xray.git"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/gdszps/dddddw.git"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 Steps ⬇️
 
